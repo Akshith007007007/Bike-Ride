@@ -1,1 +1,8 @@
-# Bike-Ride
+# Bike-Ride Assignment
+
+A bike-sharing system is a service that provides bikes for shared use to individuals on a temporary basis, either for a fee or at no cost. In numerous bike share systems, users can access a bike from a computer-controlled "dock" by entering payment information, after which the system unlocks the bike. The user can later return the bike to another dock within the same system.
+The US-based bike-sharing provider, BoomBikes, has recently faced significant declines in revenue attributed to the enduring impact of the ongoing COVID-19 pandemic. Navigating the challenges in the current market environment has proven to be a formidable task for the company. Consequently, BoomBikes has made a strategic decision to develop a thoughtful business plan aimed at revitalizing its revenue streams once the prevailing lockdown concludes, and the economy returns to a robust state.
+
+In this endeavor, BoomBikes aims to assess the post-quarantine demand for shared bikes among the populace, anticipating a resurgence in interest as the nation emerges from the COVID-19 restrictions. This proactive approach is intended to position the company to meet the renewed needs of the public effectively, differentiating itself from other service providers and capitalizing on opportunities for substantial profits
+
+The task involves creating a model for the demand of shared bikes using the existing independent variables. This model will serve as a tool for the management to grasp the nuanced variations in demand associated with different features. The insights derived from this model will empower the management to adapt the business strategy in accordance with demand levels, ensuring alignment with customer expectations. Additionally, the model will provide valuable insights into the demand dynamics of a new market, aiding the management in making informed decisions for effective market entry and operation.
